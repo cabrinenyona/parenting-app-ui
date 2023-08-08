@@ -1,4 +1,7 @@
 # Timer
+
+A timer is a feature that allows users to set a specific duration or countdown interval, after which a certain action or event will occur.
+
 ## Example
 
 | type      | name         |parameter_list             |
